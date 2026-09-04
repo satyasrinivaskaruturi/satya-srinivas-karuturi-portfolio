@@ -2,6 +2,8 @@
 
 A recruiter-first, responsive personal portfolio built as a static website.
 
+https://satyasrinivaskaruturi.github.io/satya-srinivas-karuturi-portfolio/
+
 ## Included
 
 - Premium responsive UI
